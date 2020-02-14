@@ -2,8 +2,13 @@
   font-family: 'Montserrat';
   font-size: 200%;
   color: white;
-  padding: 0 5% 2% 5%;
-  text-align: center;
+}
+
+a[target="FAQ"] {
+  color: white;
+  font-family: 'Montserrat';
+  text-decoration: none;
+  margin: 20% 20% 20% 8%;
 }
 
 h1 {
